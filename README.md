@@ -49,7 +49,7 @@ The model with the highest precision was Logistic Regression
 
 Finally, the prediction model was pickled and loaded into the request notebook. A simple API was then created using Flask in order to retrieve the prediction of the aforementioned Logistic Regression model. The API app was then uploaded to an AWS EC2 instance in order to deploy the loan approval API to the Cloud.  
 
-## Challanges 
+## Challenges 
 I had difficulties deploying my API app in the beginning. At one point, I tried using the same point on more than one occasion and later, my AWS EC2 instance kept either denying access and ran low on memory.  
 
 ## Future Goals
