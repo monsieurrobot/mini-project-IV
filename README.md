@@ -42,7 +42,6 @@ The dataset was split into training and testing sets with the target set as Loan
   - XGBClassifier
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
 The model with the highest precision was Logistic Regression
 ![image](https://user-images.githubusercontent.com/22251105/179367583-d35e2ebf-4298-4493-84e6-78c76abecf7a.png)
 ![image](https://user-images.githubusercontent.com/22251105/179367618-c6861eb7-98b1-4c76-bba9-426cfd26a9f0.png)
