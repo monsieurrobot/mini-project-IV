@@ -1,3 +1,6 @@
+# Georges Makardich
+# Lighthouse Labs - Data Science
+
 # Mini-project IV
 
 ### [Assignment](assignment.md)
