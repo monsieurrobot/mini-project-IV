@@ -11,7 +11,7 @@
   - Deploy the prediction model API to AWS Cloud
 
 ## Hypothesis
-Applicants with higher incomes and an active credit history are more likely to have their loan approved because they have access to more funds and tend to handle debt better.
+Applicants with higher incomes and an active credit history are more likely to have their loans approved.
 
 ## EDA 
 Baseline of approval rate in the dataset is 68.73%.
